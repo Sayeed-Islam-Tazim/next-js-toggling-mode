@@ -1,0 +1,6 @@
+.gradientFont {
+  background: linear-gradient(to bottom, red, yellow);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
